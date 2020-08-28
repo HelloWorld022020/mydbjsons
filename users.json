@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "5f267d255f468578a0060649"
+  },
+  "userId": "CSEMAR2008",
+  "userName": "Mr.Mark",
+  "userPassword": "Welcome123",
+  "userDesignation": "professor",
+  "userDesignationCode": "PROFR",
+  "userDepartmentId": "CSE",
+  "userDepartment": "Computer Science & Engineering",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-08-02T08:45:25.597Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T08:45:25.597Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f267d255f468578a006064a"
+  },
+  "userId": "CSEJOH2005",
+  "userName": "Mr.John Doe",
+  "userPassword": "Welcome123",
+  "userDesignation": "professor",
+  "userDesignationCode": "PROFR",
+  "userDepartmentId": "CSE",
+  "userDepartment": "Computer Science & Engineering",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-08-02T08:45:25.597Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T08:45:25.597Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f267d255f468578a006064b"
+  },
+  "userId": "CSEJEN2002",
+  "userName": "Mrs.Jenni",
+  "userPassword": "Welcome123",
+  "userDesignation": "professor",
+  "userDesignationCode": "PROFR",
+  "userDepartmentId": "CSE",
+  "userDepartment": "Computer Science & Engineering",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-08-02T08:45:25.597Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T08:45:25.597Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f267d255f468578a006064c"
+  },
+  "userId": "A116965",
+  "userName": "Mr.William",
+  "userPassword": "Welcome123",
+  "userDesignation": "student",
+  "userDesignationCode": "STUD",
+  "userDepartmentId": "CSE",
+  "userDepartment": "Computer Science & Engineering",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-08-02T08:45:25.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T08:45:25.598Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f267d255f468578a006064d"
+  },
+  "userId": "PRINCIID",
+  "userName": "Principal",
+  "userPassword": "Welcome123",
+  "userDesignation": "Principal",
+  "userDesignationCode": "MNGMT",
+  "userDepartmentId": "mngmt",
+  "userDepartment": "Mngmt",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-08-02T08:45:25.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T08:45:25.598Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f267d255f468578a006064e"
+  },
+  "userId": "ADMINID",
+  "userName": "Admin",
+  "userPassword": "Welcome123",
+  "userDesignation": "Admin",
+  "userDesignationCode": "ADMIN",
+  "userDepartmentId": "Admin",
+  "userDepartment": "Admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-08-02T08:45:25.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T08:45:25.598Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f267d255f468578a006064f"
+  },
+  "userId": "CSEHEM2001",
+  "userName": "Mr.Hemsworth",
+  "userPassword": "Welcome123",
+  "userDesignation": "Head of the Department",
+  "userDesignationCode": "HOD",
+  "userDepartmentId": "CSE",
+  "userDepartment": "Computer Science & Engineering",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-08-02T08:45:25.598Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T08:45:25.598Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f267d255f468578a0060650"
+  },
+  "userId": "CIVILMAL2001",
+  "userName": "Mrs.Malinda",
+  "userPassword": "Welcome123",
+  "userDesignation": "Head of the Department",
+  "userDesignationCode": "HOD",
+  "userDepartmentId": "CIVIL",
+  "userDepartment": "Civil Engineering",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-08-02T08:45:25.599Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T08:45:25.599Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f2e8a93d908176b581e6fab"
+  },
+  "userId": "MCTMAN2001",
+  "userName": "MAN",
+  "userDesignationCode": "PROFR",
+  "userDepartmentId": "MCT",
+  "userPassword": "Welcome123",
+  "userDesignation": "Teaching staff",
+  "userDepartment": "Mechatronics",
+  "createdAt": {
+    "$date": "2020-08-08T11:20:51.146Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-08T11:20:51.146Z"
+  },
+  "__v": 0
+}]
